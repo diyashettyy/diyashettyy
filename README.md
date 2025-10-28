@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://diya-shetty-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌸%20Visit%20My%20Portfolio-Click%20Here!-pink?style=for-the-badge&logo=sparkles&logoColor=white" alt="Portfolio Button"/>
+    <img src="https://img.shields.io/badge/%20Visit%20My%20Portfolio-Click%20Here!-green?style=for-the-badge&logo=sparkles&logoColor=white" alt="Portfolio Button"/>
   </a>
 </p>
 
