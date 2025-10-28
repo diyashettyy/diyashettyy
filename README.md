@@ -1,9 +1,9 @@
 <!-- Typing animation -->
-<h1 align="center">Hi there 👋, I'm Diya Shetty</h1>
+<h1 align="center">Hey hey! I’m Diya Shetty 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3EB489&center=true&vCenter=true&width=500&lines=AI+Developer+💻;Full+Stack+Engineer+🚀;Machine+Learning+Explorer+🧠;Building+smart+and+scalable+apps+⚙️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3EB489&center=true&vCenter=true&width=550&lines=AI+Developer+💻;Full+Stack+Engineer+🚀;Machine+Learning+Explorer+🧠;Building+smart+and+scalable+apps+⚙️" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,9 +13,9 @@
 
 🎓 BE in Computer Science (2026)  
 💻 Skilled in **AI, NLP, full-stack web development, and automation**  
-🧠 Passionate about **building intelligent systems** that make technology more seamless  
+🧠 Passionate about **building intelligent systems** that make technology seamless  
 🚀 Experienced with **React, Next.js, FastAPI, Node.js, and Python AI frameworks**  
-💬 Love exploring **AI-driven product design**, **data visualization**, and **real-time dashboards**
+💬 Love exploring **data visualization, web-AI integration, and automation pipelines**
 
 ---
 
@@ -27,24 +27,23 @@
 | **Image Forgery Detection System** | Detects and localizes tampered regions in images using CNNs and ELA | TensorFlow, Keras, FastAPI, Next.js |
 | **Sports Buddy** | Intelligent matchmaking app connecting users based on shared sports interests | React, Next.js, Node.js, MySQL, Firebase |
 | **Meditation App** | Cross-platform app for guided meditation with OpenAI-powered music suggestions | React Native, FastAPI, AWS, GitHub Actions |
-| **Bestseller Analysis & Book Recommender** | AI-based analysis of Amazon bestseller trends with personalized book suggestions | Python, Streamlit, SQLite, Pandas |
-| **Forensic Report Generator (Final Year Project)** | AI-assisted digital forensic reporting system for automated analysis summaries | Python, LangChain, FastAPI, NLP |
+| **Bestseller Book Recommender** | AI-based analysis of Amazon bestseller trends with personalized suggestions | Python, Streamlit, SQLite, Pandas |
+| **Forensic Report Generator (Final Year Project)** | AI-assisted forensic reporting system for automated case summaries | Python, LangChain, FastAPI, NLP |
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Languages & Tools I’ve Placed My Hands On
 
-**Languages:** C, Python, JavaScript, HTML, CSS  
-**Frontend:** React, Next.js, Tailwind, Vite  
-**Backend:** FastAPI, Node.js, Django, .NET  
-**Databases:** MySQL, SQLite  
-**AI/ML:** TensorFlow, PyTorch, Hugging Face, OpenAI Whisper, LangChain  
-**Tools & Platforms:** GitHub Actions, Docker, Firebase, AWS, Figma  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,tailwind,typescript,nodejs,django,dotnet,html,css,javascript,mysql,sqlite,git,github,docker,aws,figma,tensorflow,pytorch,langchain,vite,firebase" />
+</p>
 
 ---
 
 ## 🏆 Achievements & Certifications
 
+- 🥇 **HP Power Lab Hackathon (HPCL)** – Winner  
+- 🏁 **Smart India Hackathon 2024** – Finalist  
 - 💡 **Software Engineering Intern** – HackerRank  
 - 🌐 **Frontend Developer (React)** – HackerRank  
 - ⚙️ **Spring Boot 3 & Hibernate** – Udemy  
@@ -53,11 +52,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diyashettyy&show_icons=true&theme=transparent" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diyashettyy&theme=transparent" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=diyashettyy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&line_height=24" height="160" alt="Diya's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diyashettyy&theme=transparent" height="160" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyashettyy&layout=compact&theme=transparent&langs_count=6&hide_border=true" height="160" alt="Top Languages"/>
 </p>
 
 ---
