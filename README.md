@@ -19,6 +19,22 @@
 
 ---
 
+## 🌐 Check Out My Portfolio  
+
+<p align="center">
+  <a href="https://diya-shetty-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌸%20Visit%20My%20Portfolio-Click%20Here!-pink?style=for-the-badge&logo=sparkles&logoColor=white" alt="Portfolio Button"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://diya-shetty-portfolio.vercel.app">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=💻+Live+Projects;🎨+UI%2FUX+Showcase;⚙️+AI+and+Full+Stack+Work;🚀+See+My+Latest+Creations!" alt="Portfolio Animation" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
@@ -71,8 +87,6 @@
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 **HP Power Lab Hackathon (HPCL)** – Winner  
-- 🏁 **Smart India Hackathon 2024** – Finalist  
 - 💡 **Software Engineering Intern** – HackerRank  
 - 🌐 **Frontend Developer (React)** – HackerRank  
 - ⚙️ **Spring Boot 3 & Hibernate** – Udemy  
@@ -112,4 +126,4 @@
 
 ---
 
-⭐ *“Code that solves, scales, and speaks for itself.”*
+⭐ *“I can fix the world but they won't give me source code.”*
