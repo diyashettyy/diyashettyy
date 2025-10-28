@@ -32,10 +32,39 @@
 
 ---
 
-## 🧰 Languages & Tools I’ve Placed My Hands On
+## 🧰 Tech Stack
 
+### 🖥️ Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,tailwind,typescript,nodejs,django,dotnet,html,css,javascript,mysql,sqlite,git,github,docker,aws,figma,tensorflow,pytorch,langchain,vite,firebase" />
+  <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css" />
+</p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,django,dotnet" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### 🤖 AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/LangChain-0F9D58?style=for-the-badge&logo=chainlink&logoColor=white" height="40"/>
+</p>
+
+### 🧩 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,docker,firebase,aws,figma" />
 </p>
 
 ---
