@@ -44,7 +44,7 @@
 | **Sports Buddy** | Intelligent matchmaking app connecting users based on shared sports interests | React, Next.js, Node.js, MySQL, Firebase |
 | **Meditation App** | Cross-platform app for guided meditation with OpenAI-powered music suggestions | React Native, FastAPI, AWS, GitHub Actions |
 | **Bestseller Book Recommender** | AI-based analysis of Amazon bestseller trends with personalized suggestions | Python, Streamlit, SQLite, Pandas |
-| **Forensic Report Generator (Final Year Project)** | AI-assisted forensic reporting system for automated case summaries | Python, LangChain, FastAPI, NLP |
+| **Forensic Report Generator (Currently Working)** | AI-assisted forensic reporting system for automated case summaries | Python, LangChain, FastAPI, NLP |
 
 ---
 
