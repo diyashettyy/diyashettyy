@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://diya-shetty-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=💻+Live+Projects;🎨+UI%2FUX+Showcase;⚙️+AI+and+Full+Stack+Work;🚀+See+My+Latest+Creations!" alt="Portfolio Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=3EB489&center=true&vCenter=true&width=500&lines=💻+Live+Projects;🎨+UI%2FUX+Showcase;⚙️+AI+and+Full+Stack+Work;🚀+See+My+Latest+Creations!" alt="Portfolio Animation" />
   </a>
 </p>
 
