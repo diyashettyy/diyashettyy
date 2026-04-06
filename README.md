@@ -95,19 +95,6 @@
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diyashettyy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&line_height=24" height="160" alt="Diya's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diyashettyy&theme=transparent" height="160" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyashettyy&layout=compact&theme=transparent&langs_count=6&hide_border=true" height="160" alt="Top Languages"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
